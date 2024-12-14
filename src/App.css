@@ -1,0 +1,4 @@
+.container p {
+    white-space: normal;  /* Ensures text will wrap normally */
+    word-wrap: break-word; /* Allows long words to break and wrap onto the next line */
+  }
